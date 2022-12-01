@@ -1,0 +1,3 @@
+- 👋 Hi, I’m nethan nagendran
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning ReactJS and developing my business
