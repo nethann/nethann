@@ -9,8 +9,9 @@
     - Lua
     - Discord.js (Discord Bots Developer)
 
-- **I am Improving:** 🔨
+- **Improving Skills:** 🔨
     - ReactJS
     - c++ 
+    - SwiftUI
 
 - **Contact me through discord @Astra#1805**
