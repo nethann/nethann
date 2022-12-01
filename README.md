@@ -9,7 +9,7 @@
     - Lua
     - Discord.js (Discord Bots Developer)
 
--** I am Improving** 🔨
+- **I am Improving:** 🔨
     - ReactJS
     - c++ 
 
