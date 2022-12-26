@@ -7,7 +7,6 @@
     - HTML & CSS
     - R
     - Lua
-    - Discord.js (Discord Bots Developer)
 
 - **Improving Skills:** 🔨
     - ReactJS
