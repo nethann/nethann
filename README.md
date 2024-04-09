@@ -1,16 +1,13 @@
 - 👋 Hi, I’m nethan nagendran
-- 👀 I’m enjoy programming and want to major in a computer science once I graduate from high school
-- 🌱 I’m currently learning ReactJS and developing my business
+- 👀 I enjoy programming and a CS major
 - **I am fluent in:** ✅
-    - JavaScript
     - Python
-    - HTML & CSS
+    - HTML,CSS & Javascript
     - R
     - Lua
-
-- **Improving Skills:** 🔨
     - ReactJS
-    - c++ 
-    - SwiftUI
+    - Node.js
 
 - **Contact me through discord @Astra#1805**
+
+- Personal Website : https://nethan.dev
