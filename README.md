@@ -8,6 +8,6 @@
     - ReactJS
     - Node.js
 
-- **Contact me through discord @Astra#1805**
+- **Contact me through discord @Astra#180**
 
 
