@@ -10,4 +10,6 @@
 
 - **Contact me through discord @Astra#180**
 
+- Personal Website : https://nethan.dev
+
 
