@@ -1,5 +1,5 @@
 - 👋 Hi, I’m nethan nagendran
-- 👀 I enjoy programming and a CS major
+- 👀 Undergraduate computer science major @Georgia Institue of Technology
 - **I am fluent in:** ✅
     - Python
     - HTML,CSS & Javascript
