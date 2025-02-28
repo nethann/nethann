@@ -10,6 +10,5 @@
 
 - **Contact me through discord @Astra#180**
 
-- Personal Website (Programmed in ReactJS) : https://nethan.dev
 
 
