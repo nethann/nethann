@@ -1,13 +1,10 @@
 - 👋 Nethan Nagendran
-- Undergraduate CS @Georgia Institue of Technology
+- Undergraduate CS @ Georgia Institute of Technology
 - **I am fluent in:**
     - Python
-    - HTML,CSS & Javascript
+    - HTML, CSS & JavaScript
     - R
     - Lua
     - ReactJS
     - Node.js
-
-
-
-
+- 🌐 [My Website](https://nethan.dev)
