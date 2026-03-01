@@ -1,9 +1,2 @@
 - 👋 Nethan Nagendran
-- **I am fluent in:**
-    - Python
-    - HTML, CSS & JavaScript
-    - R
-    - Lua
-    - ReactJS
-    - Node.js
 - 🌐 [My Website](https://nethan.dev)
