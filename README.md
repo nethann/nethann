@@ -1,5 +1,4 @@
 - 👋 Nethan Nagendran
-- Undergraduate CS @ Georgia Institute of Technology
 - **I am fluent in:**
     - Python
     - HTML, CSS & JavaScript
